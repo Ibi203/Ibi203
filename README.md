@@ -6,7 +6,7 @@ I'm a passionate software developer 👨‍💻 and student at HBO-ICT (HvA, Ams
 ## 💻 What I’m Working On
 
 - **TrackStack** 📚🎮🎬  
-  Full-stack media tracking app (Go backend, React/Svelte/Angular frontend, MySQL).  
+  Full-stack media tracking app (Go backend,Angular frontend, MySQL).  
   For movies, series, games, and books—because I’m a bit of a nerd. 🤓
 
 - **Promo Code Platform** 💸🤑  
